@@ -10,3 +10,4 @@ Fix for issue 9 on
 Fix for issue 10 on 
 Fix for issue 1 on 
 Fix for issue 2 on 
+Fix for issue 3 on 
