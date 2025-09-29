@@ -31,3 +31,4 @@ Fix for issue 20 on
 Fix for issue 21 on 
 Fix for issue 22 on 
 Fix for issue 23 on 
+Fix for issue 24 on 
